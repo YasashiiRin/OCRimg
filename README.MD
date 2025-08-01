@@ -1,5 +1,7 @@
 
-
+###
+simply an image processing tool with translation and redrawing of translated text onto images
+in development
 ###init env
 run command: python -m venv .venv 
 
